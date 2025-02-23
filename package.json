@@ -40,7 +40,7 @@
     "mermaid": "^10.6.1",
     "nanoid": "^5.0.3",
     "next": "^14.1.1",
-    "node-fetch": "^3.3.1",
+    "node-fetch": "^3.3.2",
     "openapi-client-axios": "^7.5.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
